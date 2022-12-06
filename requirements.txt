@@ -1,0 +1,16 @@
+attrs==22.1.0
+btrfsutil==6.0.1
+cffi==1.15.1
+cryptography==38.0.3
+lensfun==0.3.3
+mercurial==6.3.1
+nftables==0.1
+packaging==21.3
+ply==3.11
+pwquality==1.4.5
+pycairo==1.22.0
+pycparser==2.21
+PyGObject==3.42.2
+pyparsing==3.0.9
+Reflector==2021.11.20.2.41.3
+team==1.0
